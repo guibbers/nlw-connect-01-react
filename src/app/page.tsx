@@ -7,7 +7,7 @@ export default function Home() {
     <main>
 
       <div className="">Hello World!</div>
-      <Button text="Guilherme">
+      <Button type="submit">
         Enviar
         <ArrowRight/>
       </Button>
